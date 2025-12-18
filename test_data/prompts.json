@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "expected": "Paris"
+  },
+  {
+    "prompt": "Who won the cricket world cup in 2050?",
+    "expected": "unknown"
+  }
+]

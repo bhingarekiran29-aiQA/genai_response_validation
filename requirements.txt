@@ -1,0 +1,9 @@
+pytest
+openai
+deepeval
+python-dotenv
+langchain
+langchain-ollama
+langchain-community
+
+#pip install -r requirements.txt
